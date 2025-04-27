@@ -1,1 +1,1 @@
-# website
+# VGDC Website
